@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "收货地址",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-list-item": "/components/uni-ui/uni-list-item/uni-list-item",
+    "uni-swipe-action": "/components/uni-ui/uni-swipe-action/uni-swipe-action",
+    "no-thing": "/components/common/no-thing"
+  }
+}

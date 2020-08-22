@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "divider": "/components/common/divider",
+    "order-list-item": "/components/order/order-list-item",
+    "common-button": "/components/common/common-button"
+  }
+}

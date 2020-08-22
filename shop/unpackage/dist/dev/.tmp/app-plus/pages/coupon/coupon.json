@@ -1,0 +1,8 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "领取优惠券",
+  "usingComponents": {
+    "coupon": "/components/order-coupon/coupon",
+    "no-thing": "/components/common/no-thing"
+  }
+}
